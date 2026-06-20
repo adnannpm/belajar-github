@@ -1,0 +1,14 @@
+# RENCANA MAGANG
+
+- Perkenalan Dengan Orang kantor
+- Saling menyapa
+- Cari tugas
+- Ikut Meting
+- Buat Konten
+
+# Suruhan Bos
+
+- Belajar Svelte Lebih dalam
+- Belajar ES6
+- Belajar Connect API
+- Belajar GITHUB
