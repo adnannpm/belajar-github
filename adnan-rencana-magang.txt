@@ -9,8 +9,8 @@
 # Suruhan Bos
 
 - Belajar Svelte Lebih dalam
-  * Belajar FetchData()
-  * Belajar Catch()
+  * Belajar Props()
+  * Belajar *skerekes()
 - Belajar ES6
 - Belajar Connect API
 - Belajar Masak
