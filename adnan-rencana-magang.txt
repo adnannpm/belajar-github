@@ -12,3 +12,4 @@
 - Belajar ES6
 - Belajar Connect API
 - Belajar GITHUB
+- Belajar Data Dasar
