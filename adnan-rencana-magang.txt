@@ -9,7 +9,10 @@
 # Suruhan Bos
 
 - Belajar Svelte Lebih dalam
+  * Belajar FetchData()
+  * Belajar Catch()
 - Belajar ES6
 - Belajar Connect API
+- Belajar Masak
 - Belajar GITHUB
 - Belajar Data Dasar
