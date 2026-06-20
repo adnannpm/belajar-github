@@ -9,6 +9,8 @@
 # Suruhan Bos
 
 - Belajar Svelte Lebih dalam
+  * Belajar Props()
+  * Belajar *skerekes()
 - Belajar ES6
 - Belajar Connect API
 - Belajar GITHUB
