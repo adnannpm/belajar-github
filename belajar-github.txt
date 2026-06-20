@@ -3,3 +3,5 @@ WPU Resolusi
 - Konsisten untuk membuat konten 2x minggu
 - Membuat platform untuk pengelolaan video
 - Membuat form diskusi
+- Membuat Googgle
+- Kolaborasi dengan lebih banyak expert
